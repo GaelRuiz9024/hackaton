@@ -1,0 +1,339 @@
+{
+  "questionsLectura": [
+    {
+      "id": 1,
+      "text": "Según el artículo, ¿por qué no deberían ser demasiado rígidas las zapatillas deportivas?",
+      "difficulty": 1,
+      "answers": [
+        {"text": "Restringen el movimiento. ", "points": 2},
+        {"text": "Impiden que puedas correr fácilmente.", "points": 1},
+        {"text": "Para evitar lesiones.", "points": 0},
+        {"text": "Porque de otro modo no serían adecuadas.", "points": 0}
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Podemos hablar sobre lo que una carta dice (su contenido). Podemos hablar sobre el modo en que una carta está escrita (su estilo). Sin tener en cuenta con qué carta estés de acuerdo, ¿cuál de las dos autoras te parece que ha escrito la mejor carta? Explica tu respuesta refiriéndote al modo en que una o las dos cartas están escritas.",
+      "difficulty": 1,
+      "answers": [
+        {"text": "Olga. Aporta muchos argumentos distintos y menciona el daño medioambiental que causan los autores de pintadas, lo que creo que es muy importante.", "points": 2},
+        {"text": "Me gusta la carta de Olga. Impone muy bien su opinión.", "points": 1},
+        {"text": "La carta de Sofía es la mejor", "points": 0},
+        {"text": "La de Olga está mejor escrita. Estudia punto por punto el problema y sobre esa base llega a una conclusión lógica", "points": 0}
+      ]
+    },
+    {
+      "id": 3,
+      "text": "¿Con cuál de las autoras de las cartas estás de acuerdo? Explica tu respuesta utilizando tus propias palabras para referirte a lo que se dice en una o en ambas cartas.",
+      "difficulty": 2,
+      "answers": [
+        {"text": "Estoy de acuerdo con Olga. Los graffiti son ilegales y eso los convierte en actos de vandalismo", "points": 2},
+        {"text": "Olga, porque a mí tampoco me gustan los graffiti, pero entiendo el punto de vista de Sofía y que no quiera condenar a ciertas personas por hacer algo en lo que creen", "points": 1},
+        {"text": "Sofía porque pienso que la carta de Olga no aporta razones para apoyar sus argumentos (Sofía compara sus argumentos con la publicidad, etc.) [Responde en términos de estilo o calidad de los argumentos.]", "points": 0},
+        {"text": "Estoy de acuerdo con Olga. [No justifica su opinión.]", "points": 0}
+      ]
+    },
+    {
+      "id": 4,
+      "text": "¿Por qué hace referencia Sofía a la publicidad?",
+      "difficulty": 2,
+      "answers": [
+        {"text": "Nos muestran que la publicidad puede ser tan invasora como los graffiti.", "points": 2},
+        {"text": "Porque los anuncios se colocan en la sociedad sin nuestro permiso, como los graffiti", "points": 1},
+        {"text": "Es un modo de presentar su opinión.", "points": 0},
+        {"text": "l Está describiendo los graffiti", "points": 0}
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Podemos hablar sobre el contenido de un escrito (lo que dice).Podemos hablar sobre su estilo (el modo en el que se presenta).Raquel quería que esta hoja informativa tuviera un estilo cordial yque animase a vacunarse.¿Crees que lo consiguió?Explica tu respuesta refiriéndote a los detalles tales como el diseño, el estilo de redacción, los dibujos o los gráficos de la presentación de la hoja informativa.",
+      "difficulty": 3,
+      "answers": [
+        {"text": "l No, fue una mala idea poner la imagen de una jeringuilla al comienzo. Asusta. [Se refiere una parte concreta del diseño (1). Utiliza un término valorativo: “asusta” (2).]", "points": 2},
+        {"text": "Sí, lo consiguió. Da muchas oportunidades en cuanto al momento de la vacunación. También ofrece recomendaciones de salud.", "points": 1},
+        {"text": "No, porque una parte de la información no es correcta. [Se refiere al contenido sin realizar ninguna conexión con la idea de un estilo “cordial y que anima a vacunarse”.]", "points": 0},
+        {"text": "l Sí, a todos hay que ponerles la inyección. [Irrelevante e impreciso]", "points": 0}
+      ]
+    },
+    {
+      "id": 6,
+      "text": "He aquí algunas de las primeras referencias a la pantera en el relato:“el grito la despertó, un sonido tan angustiado...” (líneas 36 y 37)“La respuesta fue un grito repetido, pero menos estridente, más cansino...” (línea 48) “Había oído hablar de ellas y también había oído a lo lejos sus rugidos, como de sufrimiento.” (líneas 55 y 56) Considerando lo que ocurre en el resto de la historia, ¿por qué crees que el escritor presenta a la pantera a través de estas descripciones?",
+      "difficulty": 3,
+      "answers": [
+        {"text": "Te hace darte cuenta de que la pantera también es una víctima de la inundación. [Asocia los extractos con el comportamiento compasivo de la mujer (2), sin referencia explícita a la intención o el efecto.]", "points": 2},
+        {"text": "l Porque crea suspense. No sabes quién está gritando. ", "points": 1},
+        {"text": " Lo hace más interesante", "points": 0},
+        {"text": "l La pantera aparece como si estuviera esperando por ella. [Inverosímil.]", "points": 0}
+      ]
+    },
+    {
+      "id": 7,
+      "text": "¿Cuántas personas en edad de trabajar no pertenecían a la población activa?",
+      "difficulty": 4,
+      "answers": [
+        {"text": "Un poco por debajo de novecientas cincuenta mil. ", "points": 2},
+        {"text": "94.900.", "points": 1},
+        {"text": "7,50%.", "points": 0},
+        {"text": "35,8%.", "points": 0}
+      ]
+    },
+    {
+      "id": 8,
+      "text": "¿Crees que la última frase de “El regalo” es un final adecuado? Justifica tu respuesta explicando cómo entiendes que se relaciona la última frase con el significado de la historia.",
+      "difficulty": 4,
+      "answers": [
+        {"text": "l Sí. El relato ha puesto a la mujer en contacto con lo que es esencial en la vida, y el hueso roído es un símbolo de ello.", "points": 2},
+        {"text": "Sí, proporciona una respuesta a la pregunta de si el felino devoró el jamón", "points": 1},
+        {"text": "Es más que eficaz. Es realmente impresionante. ", "points": 0},
+        {"text": "Sí, muestra que sólo fue un sueño. [Inverosímil.]", "points": 0}
+      ]
+    },
+    {
+      "id": 9,
+      "text": "En 1996, Etiopía era uno de los países más pobres del mundo. Teniendo en cuenta este hecho y la información de la tabla, ¿qué crees que podría explicar el nivel de actividades en Etiopía del PLAN Internacional comparado con sus actividades en otros países?",
+      "difficulty": 5,
+      "answers": [
+        {"text": "l Las organizaciones de ayuda suelen empezar su trabajo en un país formando al personal local y por ello yo diría que PLAN acaba de empezar a trabajar en Etiopía en 1996.", "points": 2},
+        {"text": "l Puede ser difícil distribuir ayuda porque todo está desorganizado.", "points": 1},
+        {"text": "Etiopía no necesita tanto como otros países la ayuda de PLAN Internacional. [Parte de la información en la tabla pero no tiene en cuenta la información sobre la pobreza relativa de Etiopía presentada en el enunciado.]", "points": 0},
+        {"text": "l Tienen que dar más a Etiopía. [Expresa una opinión en lugar de proporcionar una explicación.]", "points": 0}
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Una parte del artículo afirma: “Un buen calzado deportivo debe cumplir cuatro requisitos ¿Cuáles son esos requisitos?",
+      "difficulty": 5,
+      "answers": [
+        {"text": " Protección exterior", "points": 2},
+        {"text": " Buena estabilidad", "points": 1},
+        {"text": " Proteger contra impactos de la pelota o de los pies.", "points": 0},
+        {"text": " Mantener el pie caliente y seco.", "points": 0}
+      ]
+    }
+  ],
+  
+  "questionsMate": [
+    {
+      "id": 1,
+      "text": "Se pueden utilizar dos fórmulas para calcular el número de manzanos y el de coníferas dentro del planteamiento descrito anteriormente: Número de manzanos = n^2 Número de coníferas = 8n siendo n el número de filas de manzanos. Existe un valor de n para el cual el número de manzanos coincide con el de coníferas. Halla este valor de n y muestra el método que has usado para calcularlo.",
+      "difficulty": 5,
+      "answers": [
+        {"text": "n^2 = 8n, n^2 - 8n = 0, n(n - 8) = 0, n = 0 y n = 8, por tanto n = 8", "points": 2},
+        {"text": "8 x 8 = 64, n = 8", "points": 1},
+        {"text": "n^2 = 8", "points": 0},
+        {"text": "n = 0. No se puede tener el mismo número porque por cada manzano hay 8 coníferas.", "points": 0}
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Supongamos que el agricultor quiere plantar un huerto mucho mayor, con muchas filas de árboles. A medida que el agricultor vaya haciendo mayor el tamaño del huerto, ¿qué aumentará más rápidamente: el número de manzanos o el de coníferas? Explica cómo has hallado la respuesta.",
+      "difficulty": 3,
+      "answers": [
+        {"text": "Manzanos = n x n y coníferas = 8 x n. Ambas fórmulas tienen un factor n, pero los manzanos tienen otro n que se hará mayor mientras que el factor 8 permanece igual. El número de manzanos crece más rápidamente.", "points": 2},
+        {"text": "La tabla muestra que el número de manzanos aumenta más rápidamente", "points": 1},
+        {"text": "Manzanos.", "points": 0},
+        {"text": "No sé.", "points": 0}
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Si 3x + 2 = 14, ¿cuál es el valor de x?",
+      "difficulty": 2,
+      "answers": [
+        {"text": "x = 4", "points": 2},
+        {"text": "x = 6", "points": 1},
+        {"text": "x = 5", "points": 0},
+        {"text": "x = 3", "points": 0}
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Si la suma de dos números es 15 y su producto es 50, ¿cuáles son los números?",
+      "difficulty": 4,
+      "answers": [
+        {"text": "5 y 10", "points": 2},
+        {"text": "7.5 y 7.5", "points": 1},
+        {"text": "5 y 10 negativos", "points": 0},
+        {"text": "3 y 12", "points": 0}
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Resuelve la ecuación cuadrática x^2 - 4x - 5 = 0.",
+      "difficulty": 4,
+      "answers": [
+        {"text": "x = 5 y x = -1", "points": 2},
+        {"text": "x = 1 y x = -5", "points": 1},
+        {"text": "x = 4 y x = -5", "points": 0},
+        {"text": "x = 2 y x = -3", "points": 0}
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Si una empresa vende cada unidad de su producto a $50 y los costos fijos son $2000 con un costo variable de $10 por unidad, ¿cuántas unidades debe vender para alcanzar el punto de equilibrio?",
+      "difficulty": 3,
+      "answers": [
+        {"text": "50 unidades", "points": 2},
+        {"text": "40 unidades", "points": 1},
+        {"text": "45 unidades", "points": 0},
+        {"text": "60 unidades", "points": 0}
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Si un tren viaja a 60 km/h y recorre una distancia de 180 km, ¿cuánto tiempo tarda en llegar a su destino?",
+      "difficulty": 2,
+      "answers": [
+        {"text": "3 horas", "points": 2},
+        {"text": "4 horas", "points": 1},
+        {"text": "2.5 horas", "points": 0},
+        {"text": "3.5 horas", "points": 0}
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Si una caja tiene un volumen de 240 cm^3 y su base mide 10 cm por 8 cm, ¿cuál es la altura de la caja?",
+      "difficulty": 2,
+      "answers": [
+        {"text": "3 cm", "points": 2},
+        {"text": "4 cm", "points": 1},
+        {"text": "5 cm", "points": 0},
+        {"text": "6 cm", "points": 0}
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Un rectángulo tiene un perímetro de 30 cm y una de sus longitudes es de 8 cm. ¿Cuál es el área del rectángulo?",
+      "difficulty": 3,
+      "answers": [
+        {"text": "64 cm^2", "points": 2},
+        {"text": "48 cm^2", "points": 1},
+        {"text": "32 cm^2", "points": 0},
+        {"text": "24 cm^2", "points": 0}
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Si el radio de un círculo es de 7 cm, ¿cuál es el área del círculo? Usa π ≈ 3.14.",
+      "difficulty": 1,
+      "answers": [
+        {"text": "153.86 cm^2", "points": 2},
+        {"text": "150 cm^2", "points": 1},
+        {"text": "140 cm^2", "points": 0},
+        {"text": "160 cm^2", "points": 0}
+      ]
+    }
+  ],
+  "questionsCiencia": [
+    {
+      "id": 1,
+      "text": "Semmelweis tuvo éxito en sus intentos de reducir el número de muertes producidas por la fiebre puerperal. Pero incluso hoy, la fiebre puerperal sigue siendo una enfermedad difícil de eliminar. Las fiebres que son difíciles de curar son todavía un problema en los hospitales. Muchas medidas de rutina sirven para controlar este problema. Entre estas medidas está la de lavar las sábanas a elevadas temperaturas. Explica por qué las altas temperaturas (al lavar las sábanas) reducen el riesgo de que los pacientes contraigan una fiebre.",
+      "difficulty": 2,
+      "answers": [
+        {"text": "Porque con el calor muchas bacterias perecen", "points": 2},
+        {"text": "Las bacterias desaparecen.", "points": 1},
+        {"text": "La alta temperatura mata a la mayor parte de la fiebre en las sábanas, disminuyendo la posibilidad de contaminación.", "points": 0},
+        {"text": "Para que no enfermen por el frío.", "points": 0}
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Supón que eres Semmelweis. Da una razón (basada en los datos que recopiló Semmelweis) de por qué la fiebre puerperal es improbable que sea causada por terremotos.",
+      "difficulty": 4,
+      "answers": [
+        {"text": "Es muy poco probable que sean causadas por terremotos porque los terremotos no ocurren continuamente.", "points": 2},
+        {"text": "Si la razón fuera un terremoto, todo el mundo tendría fiebre puerperal cada vez que sucede un terremoto (no sólo en los pabellones 1 y 2).", "points": 1},
+        {"text": "Un terremoto no afecta a una persona o la hace enfermar.", "points": 0},
+        {"text": "Un terremoto no tiene influencia sobre el embarazo. La razón es que los médicos no estaban suficientemente especializados.", "points": 0}
+      ]
+    },
+    {
+      "id": 3,
+      "text": "¿Qué función tiene la clorofila en la fotosíntesis?",
+      "difficulty": 3,
+      "answers": [
+        {"text": "La clorofila captura la energía de la luz solar necesaria para la fotosíntesis.", "points": 2},
+        {"text": "La clorofila le da color verde a las plantas.", "points": 1},
+        {"text": "La clorofila transporta agua a las hojas.", "points": 0},
+        {"text": "La clorofila protege a las plantas de los rayos UV.", "points": 0}
+      ]
+    },
+    {
+      "id": 4,
+      "text": "¿Cuál es el papel de los glóbulos blancos en el cuerpo humano?",
+      "difficulty": 3,
+      "answers": [
+        {"text": "Los glóbulos blancos combaten infecciones y enfermedades.", "points": 2},
+        {"text": "Los glóbulos blancos transportan oxígeno en la sangre.", "points": 1},
+        {"text": "Los glóbulos blancos coagulan la sangre.", "points": 0},
+        {"text": "Los glóbulos blancos producen hormonas.", "points": 0}
+      ]
+    },
+    {
+      "id": 5,
+      "text": "¿Qué proceso describe la transformación de una oruga en mariposa?",
+      "difficulty": 2,
+      "answers": [
+        {"text": "Metamorfosis", "points": 2},
+        {"text": "Fotosíntesis", "points": 1},
+        {"text": "Germinación", "points": 0},
+        {"text": "Fusión", "points": 0}
+      ]
+    },
+    {
+      "id": 6,
+      "text": "¿Cuál es la principal función del sistema respiratorio?",
+      "difficulty": 2,
+      "answers": [
+        {"text": "Intercambiar gases entre el cuerpo y el entorno.", "points": 2},
+        {"text": "Producir células sanguíneas.", "points": 1},
+        {"text": "Regular la temperatura corporal.", "points": 0},
+        {"text": "Transportar nutrientes a las células.", "points": 0}
+      ]
+    },
+    {
+      "id": 7,
+      "text": "¿Qué causa las estaciones del año en la Tierra?",
+      "difficulty": 3,
+      "answers": [
+        {"text": "La inclinación del eje terrestre en relación con su órbita alrededor del sol.", "points": 2},
+        {"text": "La distancia de la Tierra al sol.", "points": 1},
+        {"text": "La rotación de la Tierra sobre su eje.", "points": 0},
+        {"text": "La gravedad de la Luna.", "points": 0}
+      ]
+    },
+    {
+      "id": 8,
+      "text": "¿Qué tipo de energía utiliza una planta para realizar la fotosíntesis?",
+      "difficulty": 5,
+      "answers": [
+        {"text": "Energía solar", "points": 2},
+        {"text": "Energía química", "points": 1},
+        {"text": "Energía térmica", "points": 0},
+        {"text": "Energía mecánica", "points": 0}
+      ]
+    },
+    {
+      "id": 9,
+      "text": "¿Qué componente de la célula es conocido como el 'centro de control'?",
+      "difficulty": 2,
+      "answers": [
+        {"text": "Núcleo", "points": 2},
+        {"text": "Mitocondria", "points": 1},
+        {"text": "Ribosoma", "points": 0},
+        {"text": "Cloroplasto", "points": 0}
+      ]
+    },
+    {
+      "id": 10,
+      "text": "¿Qué fenómeno natural es responsable de los terremotos?",
+      "difficulty": 1,
+      "answers": [
+        {"text": "El movimiento de las placas tectónicas.", "points": 2},
+        {"text": "La erupción de volcanes.", "points": 1},
+        {"text": "Las tormentas eléctricas.", "points": 0},
+        {"text": "La rotación de la Tierra.", "points": 0}
+      ]
+    }
+  ]
+}
