@@ -1,0 +1,198 @@
+{
+  "intents": [
+    {
+      "tag": "adios",
+      "patterns": [
+        "Adios",
+        "Bye",
+        "Gracias",
+        "Hasta luego",
+        "Nos vemos",
+        "Me voy",
+        "Chao",
+        "Gracias por la ayuda"
+      ],
+      "responses": [
+        "Hasta luego, que tengas un buen día.",
+        "Nos vemos pronto.",
+        "Espero haberte ayudado, ¡adiós!",
+        "Gracias por visitarnos, hasta luego.",
+        "Nos vemos en otra ocasión, ¡cuídate!"
+      ],
+      "context": ["greeting_done"]
+    },
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hola",
+        "Hi",
+        "Hey",
+        "Buenos días",
+        "Buenas tardes",
+        "Buenas noches",
+        "Hola, ¿qué tal?",
+        "Hola, ¿cómo estás?"
+      ],
+      "responses": [
+        "Hola, ¿cómo estás?",
+        "Bienvenido, ¿en qué te puedo ayudar?",
+        "Hola, ¿cómo te puedo asistir hoy?",
+        "¡Hola! ¿Necesitas ayuda con algo?",
+        "Hola, bienvenido a nuestra plataforma."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "PISA",
+      "patterns": [
+        "¿Qué es la prueba PISA?",
+        "¿Para qué sirve PISA?",
+        "¿Qué mide PISA?",
+        "¿Qué evalúa PISA?",
+        "Información sobre PISA",
+        "Explícame qué es PISA",
+        "¿Qué significa PISA?",
+        "¿Cuál es el objetivo de PISA?"
+      ],
+      "responses": [
+        "La prueba PISA (Programme for International Student Assessment) es una evaluación internacional que mide el rendimiento académico de los estudiantes en matemáticas, lectura y ciencias.",
+        "PISA sirve para evaluar las habilidades y conocimientos de los estudiantes de 15 años en distintos países, proporcionando datos comparables a nivel internacional.",
+        "PISA mide la capacidad de los estudiantes para aplicar sus conocimientos y habilidades en matemáticas, lectura y ciencias a problemas de la vida real.",
+        "La prueba evalúa cómo los estudiantes pueden usar lo que han aprendido en la escuela para abordar desafíos del mundo real.",
+        "El objetivo de PISA es proporcionar datos que ayuden a mejorar los sistemas educativos en todo el mundo."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "preparation",
+      "patterns": [
+        "¿Cómo puedo prepararme para la prueba PISA?",
+        "Consejos para la prueba PISA",
+        "¿Qué debo estudiar para PISA?",
+        "Preparación para PISA",
+        "¿Cómo estudio para PISA?",
+        "¿Cómo me preparo para el examen PISA?",
+        "Recomendaciones para PISA",
+        "¿Cómo mejorar mis habilidades para PISA?"
+      ],
+      "responses": [
+        "Para prepararte para la prueba PISA, es importante que te enfoques en desarrollar tus habilidades de lectura crítica, razonamiento matemático y comprensión científica.",
+        "Puedes practicar con ejemplos de exámenes anteriores y utilizar recursos en línea que se centren en las habilidades evaluadas por PISA.",
+        "Asegúrate de comprender bien los conceptos básicos en matemáticas, lectura y ciencias, y practica la resolución de problemas aplicados a situaciones de la vida real.",
+        "Nuestra plataforma ofrece cursos personalizados que te ayudarán a fortalecer tus habilidades en las áreas evaluadas por PISA. ¡Contáctanos para más información!",
+        "Revisa materiales de estudio específicos para PISA y haz ejercicios prácticos regularmente.",
+        "Participa en simulaciones de exámenes para familiarizarte con el formato y tipo de preguntas de PISA.",
+        "Desarrolla una rutina de estudio constante y busca apoyo en nuestros cursos gratuitos y descargables."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "courses",
+      "patterns": [
+        "¿Qué cursos ofrecen?",
+        "¿Tienen cursos para PISA?",
+        "Información sobre los cursos",
+        "Cursos disponibles",
+        "¿Qué tipo de cursos tienen?",
+        "¿Qué puedo aprender en sus cursos?",
+        "Cursos específicos para PISA",
+        "¿Puedo descargar sus cursos?",
+        "¿Son gratuitos los cursos?"
+      ],
+      "responses": [
+        "Ofrecemos una variedad de cursos personalizados que están diseñados para ayudar a los estudiantes a mejorar en comprensión lectora, matemáticas y ciencias, enfocados específicamente en los estándares de la prueba PISA.",
+        "Nuestros cursos son gratuitos y pueden descargarse para ser visualizados sin necesidad de una conexión a internet.",
+        "Los cursos incluyen materiales de estudio, ejercicios prácticos y simulaciones de exámenes para preparar a los estudiantes de manera efectiva para la prueba PISA.",
+        "Nuestra plataforma personaliza los cursos según el estilo de aprendizaje del usuario, asegurando una experiencia educativa adaptada a sus necesidades.",
+        "Puedes aprender habilidades clave en matemáticas, lectura y ciencias, y aplicar estos conocimientos a problemas del mundo real.",
+        "Ofrecemos cursos descargables para que puedas estudiar sin conexión a internet en cualquier momento.",
+        "Todos nuestros cursos están disponibles de forma gratuita y son accesibles para cualquier estudiante que quiera prepararse para la prueba PISA."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "pricing",
+      "patterns": [
+        "¿Cuánto cuestan sus cursos?",
+        "Precio de los cursos",
+        "Costos de los programas",
+        "Tarifas de los cursos",
+        "¿Son gratuitos los cursos?",
+        "¿Hay algún costo por los cursos?",
+        "¿Debo pagar por los cursos?"
+      ],
+      "responses": [
+        "Nuestros cursos son completamente gratuitos.",
+        "Puedes acceder a todos nuestros cursos sin ningún costo.",
+        "Ofrecemos acceso gratuito a todos nuestros materiales de estudio y ejercicios prácticos.",
+        "Disfruta de nuestros cursos gratuitos descargables para estudiar sin conexión a internet.",
+        "No necesitas pagar nada para acceder a nuestros cursos y recursos educativos.",
+        "Todos los materiales y cursos que ofrecemos son completamente gratuitos y accesibles para todos los estudiantes."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "skills",
+      "patterns": [
+        "¿Qué habilidades puedo mejorar con sus cursos?",
+        "Habilidades que enseñan",
+        "¿Qué áreas cubren sus cursos?",
+        "Principales habilidades de sus cursos",
+        "¿Qué aprenderé en sus cursos?",
+        "¿En qué me ayudarán sus cursos?",
+        "Áreas de enfoque de los cursos"
+      ],
+      "responses": [
+        "Nuestros cursos están diseñados para mejorar tus habilidades en comprensión lectora, matemáticas y ciencias.",
+        "Puedes desarrollar tu capacidad de lectura crítica, razonamiento matemático y comprensión científica con nuestros cursos.",
+        "Nos enfocamos en las habilidades clave necesarias para tener éxito en la prueba PISA: comprensión lectora, matemáticas y ciencias.",
+        "Los cursos te ayudarán a aplicar tus conocimientos y habilidades en situaciones de la vida real, especialmente en las áreas de lectura, matemáticas y ciencias.",
+        "Mejorarás tu habilidad para analizar textos, resolver problemas matemáticos complejos y entender conceptos científicos.",
+        "Los cursos están diseñados para fortalecer tus habilidades académicas y prepararte de manera integral para la prueba PISA."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "personalization",
+      "patterns": [
+        "¿Cómo personalizan los cursos?",
+        "Personalización del aprendizaje",
+        "Adaptación al estilo de aprendizaje",
+        "¿Los cursos se adaptan a mis necesidades?",
+        "¿Cómo ajustan los cursos a mi estilo de aprendizaje?",
+        "¿Los cursos se personalizan para cada estudiante?",
+        "¿Puedo personalizar mi experiencia de aprendizaje?"
+      ],
+      "responses": [
+        "Nuestra plataforma personaliza los cursos según tu estilo de aprendizaje, adaptando los contenidos y ejercicios a tus necesidades específicas.",
+        "Utilizamos tecnología avanzada para ofrecerte una experiencia educativa personalizada que maximice tu aprendizaje.",
+        "Los cursos se ajustan a tu ritmo y estilo de aprendizaje, asegurando que aproveches al máximo cada lección.",
+        "Aunque personalizamos los cursos, no proporcionamos acceso específico al nivel educativo en el que te encuentras.",
+        "Evaluamos tus fortalezas y áreas de mejora para adaptar los materiales de estudio a tus necesidades individuales.",
+        "Nuestro enfoque personalizado te ayudará a aprender de manera más eficiente y efectiva, ajustándose a tus preferencias de aprendizaje."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "contact",
+      "patterns": [
+        "¿Cómo puedo contactarlos?",
+        "Información de contacto",
+        "Necesito ayuda",
+        "¿Tienen soporte?",
+        "Contacto",
+        "¿Cómo me comunico con ustedes?",
+        "¿Cómo puedo obtener ayuda?"
+      ],
+      "responses": [
+        "Puedes contactarnos a través de nuestro formulario de contacto en la página web",
+        "Nuestro equipo de soporte está disponible para ayudarte con cualquier pregunta que tengas. No dudes en comunicarte con nosotros.",
+        "Visita nuestra página de contacto para más detalles sobre cómo puedes ponerte en contacto con nosotros.",
+        "Estamos aquí para ayudarte. Puedes enviarnos un mensaje directo desde el sitio web o usar nuestras redes sociales para comunicarte.",
+        "Si tienes alguna pregunta o necesitas asistencia, no dudes en contactarnos a través de nuestros canales de soporte.",
+        "Para cualquier consulta o ayuda, nuestro equipo de soporte está disponible y listo para asistirte."
+      ],
+      "context": [""]
+    }
+  ]
+}
