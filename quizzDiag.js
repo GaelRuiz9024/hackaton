@@ -89,8 +89,6 @@ async function generateForm(questions) {
       determinarEstiloAprendizaje(totalPointsEstiloAprendizaje)
     } else {
       datosUsuario.push(history / 10)
-
-
     }
     console.log(datosUsuario)
   }
